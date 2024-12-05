@@ -10,7 +10,7 @@ ifconfig wlan0mon up
 iw reg set B0
 iwconfig wlan0 txpower <NmW|NdBm|off|auto>
 ## txpower is 30 (generally)
-## txpower is depends your country, please googling
+## txpower is depends your country, please google it
 iwconfig
 
 ## Change WiFi Channel
